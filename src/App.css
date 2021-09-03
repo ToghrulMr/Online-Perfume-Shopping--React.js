@@ -315,6 +315,9 @@ text-align:center;
   .headerText h1{
 font-size: 20px;
   }
+  .left a{
+   font-size: unset;
+  }
   .products{
     flex-direction: column;
   }
